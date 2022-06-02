@@ -1,0 +1,8 @@
+INFO fullevaluate.py(156): 
+
+INFO fullevaluate.py(157): ================================================================================
+INFO fullevaluate.py(158): evaluating the model ...
+
+INFO fullevaluate.py(159): setup and restore model
+INFO fullevaluate.py(178): compute the mIOU
+INFO fullevaluate.py(183): mIOU is: nan
